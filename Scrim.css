@@ -1,0 +1,18 @@
+h1 {
+    font-weight: 100;
+    color: dimgrey;
+}
+
+button {
+    color: black;
+}
+
+#increment-btn {
+    align-content: center;
+    font-weight: bold;
+    color: red;
+}
+
+button {
+    color: firebrick;
+}
